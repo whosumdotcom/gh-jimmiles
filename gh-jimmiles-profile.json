@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-11-22T15:59:55Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:jimmiles"
+    },
+    {
+      "Claim": "spout:jimmiles"
+    },
+    {
+      "Claim": "x:jimmiles"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "89198cc60eb90e2e696ab5ce",
+    "Timestamp": "2023-11-22T16:03:22Z",
+    "Signature": "84623b5594380772c49c78dbe8c64e6e0d0689b800101e71922e10d496a90973e428085a2e6ead0c9e8517ba2b0a70582412e7a4cb779730a4a61421a556c4b586f727b9ad722ad4c7278e7508b51b20c450cd75c4192cf3907f97cabeb7dad45782a39f602e9fa52d9e21fbd6e315fccd56cdc23797e8af6a6a4e952eebcc1bfb98619656285e698c514c5d22de3bd63adba4806ffe16fb6454be7be08c89942883d0d2adee106ebc648224d743bc3a16577e241d4517b29e8c64eece83a6f53bc4a596e6c9a19ce5a6a3dea8bf98094a3221459a8cd3e1ed1785e7db2fad1dfc5a47c43fbe6aa95d59fecfd9e01d52dc9a7cfd07655eb2fa5785c57fa5da32"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "7e70b50f3af92fc7e346a977a354c06d3b187949662b462979f7397043e5f0f6",
+  "ContentToHash": "v1|gh:jimmiles,spout:jimmiles,x:jimmiles|2023-11-22T15:59:55Z"
+}
